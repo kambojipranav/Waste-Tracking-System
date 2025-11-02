@@ -8,8 +8,11 @@
 # testing
 /coverage
 
-# production
-/build
+# React build
+client/build
+
+# Environment files
+.env
 
 # misc
 .DS_Store

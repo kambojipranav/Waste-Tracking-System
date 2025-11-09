@@ -30,5 +30,9 @@ This system allows municipal teams to record and monitor waste collection activi
 
 ---
 
+<img width="1753" height="595" alt="image" src="https://github.com/user-attachments/assets/c54abff6-4cf1-43dc-822c-ad788a13dd0a" />
+
+<img width="1753" height="654" alt="image" src="https://github.com/user-attachments/assets/f2436765-740d-4fdf-b7e2-4a8e41ca6a3a" />
+
 
 
